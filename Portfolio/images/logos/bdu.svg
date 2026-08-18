@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-label="Bahir Dar University">
+  <circle cx="40" cy="40" r="38" fill="#0b3d91"/>
+  <circle cx="40" cy="40" r="30" fill="none" stroke="#f4c542" stroke-width="3"/>
+  <text x="40" y="36" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="700">BDU</text>
+  <text x="40" y="52" text-anchor="middle" fill="#f4c542" font-family="Arial, sans-serif" font-size="7" letter-spacing="1">UNIVERSITY</text>
+</svg>

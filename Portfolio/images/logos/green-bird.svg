@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-label="Green Bird Tech">
+  <rect width="80" height="80" rx="16" fill="#14532d"/>
+  <path d="M22 46c8-2 14-10 18-18 2 8 8 14 18 18-8 2-14 8-18 16-4-8-10-14-18-16z" fill="#86efac"/>
+  <circle cx="52" cy="28" r="4" fill="#bbf7d0"/>
+  <text x="40" y="68" text-anchor="middle" fill="#dcfce7" font-family="Arial, sans-serif" font-size="7" font-weight="700" letter-spacing="0.5">GREEN BIRD</text>
+</svg>
